@@ -1,1 +1,2 @@
-# RAIN-RAIN-INFINITE-RAIN
+# p5.play-boilerplate
+Boiler plate for p5.play
